@@ -2,7 +2,7 @@ let strong = document.querySelectorAll("strong")
 function highlight() {
     //Write your code here
 	strong.forEach(darkColor => {
-		darkColor.style.color = "orange"
+		darkColor.style.color = "green"
 	})
 }
 
